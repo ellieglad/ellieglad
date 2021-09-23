@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sofware Engineer at Oslo Municipality Bymiljøetaten.
+Sofware Engineer at Oslo Municipality Bymiljøetaten.  
 Work github: https://github.com/ellieglad-bym.
 
 <!--
