@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Sofware Engineer at Oslo Municipality Bymiljøetaten.
+Work github: https://github.com/ellieglad-bym.
+
 <!--
 **ellieglad/ellieglad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
