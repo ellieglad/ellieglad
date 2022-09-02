@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer at [Leap](https://leap.energy).
+Software Engineer at [Box](https://www.box.com).
 
 <!--
 **ellieglad/ellieglad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
